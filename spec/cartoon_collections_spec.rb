@@ -43,7 +43,7 @@ describe 'Cartoon Collections' do
   #     calls_long = ["axe", "earth", "wind", "fire"]
   #     expect(long_planeteer_calls(calls_long)).to eq(true)
   #   end
-  # 
+  #
   #   it "returns false if all calls are 4 characters or less" do
   #   calls_short = ["wind", "fire", "tree", "axe", "code"]
   #   expect(long_planeteer_calls(calls_short)).to eq(false)
@@ -55,7 +55,7 @@ describe 'Cartoon Collections' do
   #     cheddar_cheese = %w[banana cheddar sock]
   #     expect(find_the_cheese(cheddar_cheese)).to eq 'cheddar'
   #   end
-  # 
+  #
   #   it 'returns nil if the array does not contain a type of cheese' do
   #     no_cheese = %w[ham cellphone computer]
   #     expect(find_the_cheese(no_cheese)).to eq nil
